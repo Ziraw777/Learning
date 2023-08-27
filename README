@@ -1,0 +1,55 @@
+[]: # Path: README
+# AI in Cybersecurity
+
+This project is intended for learning purposes about AI usecases in cybersecurity.
+As a result, multiple 3rd party software will be employed. This project is not indended for distribution.
+Any copyrights belong to their owners. This project is solely intended for learning purposes.
+
+Documentation and links to the used software will be provided in the wiki.
+
+This software will be ready and implemented within the next 48 hours.
+
+## Installation
+
+### Prerequisites
+
+- Python 3.8
+- pip
+- virtualenv
+
+### Setup
+
+1. Clone the repository
+2. Create a virtual environment
+3. Activate the virtual environment
+4. Install the requirements
+
+```bash
+git clone
+cd ai-cybersecurity
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+## Usage
+
+### Training
+
+```bash
+python train.py
+```
+
+### Testing
+
+```bash
+python test.py
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
